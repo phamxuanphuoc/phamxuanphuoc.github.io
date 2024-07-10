@@ -1879,4 +1879,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .timeline-text { max-width: 700px; }
 
+.timeline-abc {
+  color: var(--light-yellow);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+}
+	
 }
