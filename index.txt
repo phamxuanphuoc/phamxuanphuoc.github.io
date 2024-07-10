@@ -3,22 +3,22 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
-Web developer
+Pham Xuan Phuoc
+Data Analyst/Business Intelligence
 
 Show Contacts
 
 Email
-richard@example.com
+phamxuanphuoc98@gmail.com
 
 Phone
-+1 (213) 352-2795
++84 961544252
 
 Birthday
-June 23, 1982
+Oct 15, 1998
 
 Location
-Sacramento, California, USA
+Ho Chi Minh City, VietNam
 
 # navbar
 
@@ -32,9 +32,9 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a Data Analyst with experience since 2019 in Business Intelligence (BI), Data Warehousing (DWH), and Data Analytics consulting. I specialize in developing, implementing, and maintaining data warehouse extracts, transformations, and ETL processes across industries like Insurance, Hospitality, and Retail.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My goal is to turn complex data into actionable insights through intuitive Business Intelligence reporting in Power BI and Tableau. I am dedicated to making your data functional, accurate, and visually compelling, ensuring informed decision-making for your business. 
 
 
 ## service
@@ -93,23 +93,41 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+UNIVERSITY OF ECONOMICS AND LAW at Ho Chi Minh City
+2016 — 2020
+Bachelor of Management Information Systems
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Data Analyst at FPTSoftware-HCM
+11/2022 - Present
+Project: Insurance Enterprise Business Intelligence 
+Project Description:
+Develop a BI platform for every aspect of insurance business – from operations and claims handling 
+to sales and marketing.
+Responsibilities:
+• Development of a reporting solution suite containing 10 Power BI reports for Compliance and Risk 
+Teams of Insurance Enterprises using SSDT, Azure Synapse, and Databricks.
+• Involved in Cube Partitioning, Refresh strategy and planning and Dimensional data modeling in 
+Analysis Services (SSAS).
+• Designed dynamic SSIS packages to transfer data crossing different platforms, validate data during 
+transferring, and archived data file for different DBMS.
+• Created SSAS Tabular cubes and loaded dimensions and facts.
+• Designed and implemented data models and reports in Power BI to help clients analyze data to identify 
+market trends, competition and customer behavior.
+• Implemented advanced DAX queries in Power BI Desktop, providing detailed insights and enabling 
+20% better performance.
+• Worked on Azure Synapse Analytics data warehouse. Experienced user of SQL for development of 
+worked on ad hoc change tickets.
+Technologies Used:
+Software environment
+• Microsoft
+Development tools 
+• Power BI
+• SQL Server Data Tools (SSDT)
+• Azure Databricks, Azure Synapse Analytics
+• GitLab
+
 
 Art director
 2013 — 2015
