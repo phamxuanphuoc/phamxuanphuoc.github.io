@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\images"
+    "\\assets\\css",
+    "\\assets\\images",
+    "\\assets\\js",
+    "\\assets\\portfolio_project"
   ],
-  "SelectedNode": "\\assets\\images\\logo-3-color.png",
+  "SelectedNode": "\\assets\\images\\my-avatar(old).png",
   "PreviewInSolutionExplorer": false
 }

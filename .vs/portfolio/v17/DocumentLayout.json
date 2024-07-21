@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\portfolio\\assets\\portfolio_project\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\portfolio_project\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\portfolio\\assets\\portfolio_project\\alice_ecom.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\portfolio_project\\alice_ecom.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,29 +38,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "alice_ecom.html",
               "DocumentMoniker": "D:\\Project\\portfolio\\assets\\portfolio_project\\alice_ecom.html",
               "RelativeDocumentMoniker": "assets\\portfolio_project\\alice_ecom.html",
               "ToolTip": "D:\\Project\\portfolio\\assets\\portfolio_project\\alice_ecom.html",
               "RelativeToolTip": "assets\\portfolio_project\\alice_ecom.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAgAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-11T07:50:25.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T08:42:46.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "test.html",
+              "DocumentMoniker": "D:\\Project\\portfolio\\assets\\portfolio_project\\test.html",
+              "RelativeDocumentMoniker": "assets\\portfolio_project\\test.html",
+              "ToolTip": "D:\\Project\\portfolio\\assets\\portfolio_project\\test.html",
+              "RelativeToolTip": "assets\\portfolio_project\\test.html",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-11T07:50:25.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "script.js",
               "DocumentMoniker": "D:\\Project\\portfolio\\assets\\js\\script.js",
               "RelativeDocumentMoniker": "assets\\js\\script.js",
               "ToolTip": "D:\\Project\\portfolio\\assets\\js\\script.js",
               "RelativeToolTip": "assets\\js\\script.js",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAkwE0AAAATAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswE0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-11T07:31:44.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T07:31:44.266Z"
             },
             {
               "$type": "Document",
@@ -66,14 +80,14 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "D:\\Project\\portfolio\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAACEDAAAAAAAAAAAAACkDAABSAAAA",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAAwCUBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-07-11T03:24:19.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "style.css",
               "DocumentMoniker": "D:\\Project\\portfolio\\assets\\css\\style.css",
               "RelativeDocumentMoniker": "assets\\css\\style.css",
@@ -81,8 +95,7 @@
               "RelativeToolTip": "assets\\css\\style.css",
               "ViewState": "AQIAAOwGAAAAAAAAAAAhwPgGAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-11T07:30:54.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T07:30:54.996Z"
             }
           ]
         }
