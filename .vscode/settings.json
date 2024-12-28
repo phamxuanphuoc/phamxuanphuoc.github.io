@@ -1,0 +1,4 @@
+{
+    "genieai.openai.model": "gpt-4o",
+    "genieai.openai.apiBaseUrl": "https://platform.openai.com"
+}
